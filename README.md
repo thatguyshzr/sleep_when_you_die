@@ -14,4 +14,6 @@ It presses CAPSLOCK twice every 5 minutes. The duration can be changed by changi
 ### Requirements
 - ```pip install PyAutoGUI```
 
+-------------------------
+
 A better option would be write a shell script. :man_shrugging:
