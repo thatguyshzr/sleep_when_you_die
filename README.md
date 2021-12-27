@@ -4,12 +4,12 @@ A simple python code to keep the system awake.
 
 It presses CAPSLOCK twice every 5 minutes. The duration can be changed by changing the ```mins``` variable.
 
-Place the batch script in the startup folder so it runs whenever you start the computer.
+:warning: To stop the code, move the cursor to the top right corner of the screen.
 
-Keep the .py and .bat file together, or change the file location in .bat to where ever the .py file is.
+### To Do
+- Place the batch script in the startup folder so it runs whenever you start the computer.
 
-<span style="color:red">To stop the code, move the cursor to the top right corner of the screen.</span>
-
+- Keep the .py and .bat file together, or change the file location in .bat to where ever the .py file is.
 
 ### Requirements
 - ```pip install PyAutoGUI```
